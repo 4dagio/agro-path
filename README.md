@@ -28,10 +28,9 @@ Agro-Path es una herramienta de Gestión de Relación con el Cliente (CRM) dise�
 *   Ingresa tu **Nombre de Usuario** y **Contraseña**.
 *   Haz clic en **Log in**.
 
-    ```
-    <img width="1484" alt="image" src="https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6" />
+   
+ <img width="1484" alt="image" src="https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6" />
 
-    ```
 
 ### 2. Pantalla de Inicio (Dashboard)
 
