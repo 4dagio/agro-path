@@ -46,7 +46,7 @@ Agro-Path es una herramienta de Gestión de Relación con el Cliente (CRM) dise�
 *   Ingresa tu **Nombre de Usuario** y **Contraseña**.
 *   Haz clic en **Log in**.
 
-    ![Pantalla de Inicio de Sesión](https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6)
+![Pantalla de Inicio de Sesión](https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6)
 
 ### 2. Pantalla de Inicio (Dashboard)
 
@@ -56,7 +56,7 @@ Al ingresar, verás la pantalla principal:
 *   **Columna "Flujo":** Muestra las acciones recientes realizadas en el CRM por ti y otros usuarios.
 *   **Columna "Mis Actividades":** Lista tus actividades y tareas pendientes o asignadas.
 
-    ![Pantalla Principal (Dashboard)](https://github.com/user-attachments/assets/2c0ad440-4a5d-49bd-9214-418ee7d33462)
+![Pantalla Principal (Dashboard)](https://github.com/user-attachments/assets/2c0ad440-4a5d-49bd-9214-418ee7d33462)
 
 ## Módulos Principales
 
@@ -74,11 +74,11 @@ Esta sección te permite gestionar las empresas o fincas con las que trabajas.
     *   Indica si tienes autorización para el tratamiento de datos.
     *   Guarda la información.
 
-    ![Lista de Clientes](https://github.com/user-attachments/assets/e7f68738-6a17-45f1-9ce2-883bec12e1a7)
+![Lista de Clientes](https://github.com/user-attachments/assets/e7f68738-6a17-45f1-9ce2-883bec12e1a7)
 
-    ![Detalle de Cliente](https://github.com/user-attachments/assets/883ebbfe-19c2-48e6-8a7b-e01123eec79b)
+![Detalle de Cliente](https://github.com/user-attachments/assets/883ebbfe-19c2-48e6-8a7b-e01123eec79b)
 
-    ![Formulario Crear Cliente](https://github.com/user-attachments/assets/99b6ac35-644d-40f3-b2f1-fa836f087f30)
+![Formulario Crear Cliente](https://github.com/user-attachments/assets/99b6ac35-644d-40f3-b2f1-fa836f087f30)
 
 ### Almacenes
 
@@ -93,9 +93,9 @@ Representa a las personas individuales dentro de los Clientes o Almacenes.
 *   **Asociar:** Vincula el contacto al Cliente o Almacén correspondiente usando la flecha de selección.
 *   Guarda el contacto.
 
-    ![Lista de Contactos](https://github.com/user-attachments/assets/82252206-2d55-4d9f-a6ef-5544b6f5f77b)
+![Lista de Contactos](https://github.com/user-attachments/assets/82252206-2d55-4d9f-a6ef-5544b6f5f77b)
 
-    ![Formulario Crear Contacto](https://github.com/user-attachments/assets/f732c042-ad22-4a56-84e5-992920cc2396)
+![Formulario Crear Contacto](https://github.com/user-attachments/assets/f732c042-ad22-4a56-84e5-992920cc2396)
 
 ### Proveedores
 
@@ -111,7 +111,7 @@ Registra aquí tus interacciones significativas.
 *   **Detalles:** Describe los temas tratados, recomendaciones y observaciones.
 *   Guarda la actividad.
 
-    ![Formulario Crear Actividad](https://github.com/user-attachments/assets/82c33c13-36cb-4093-8034-0a92f06c9bab)
+![Formulario Crear Actividad](https://github.com/user-attachments/assets/82c33c13-36cb-4093-8034-0a92f06c9bab)
 
 ### Reuniones
 
@@ -122,7 +122,7 @@ Similar a las Actividades, pero permite añadir asistentes.
 *   **Asistentes:** Añade otros usuarios del CRM o contactos externos que participaron.
 *   Guarda la reunión.
 
-    ![Formulario Crear Reunión](https://github.com/user-attachments/assets/3367b6c4-695c-4a22-a3ba-cedbbb62f57e)
+![Formulario Crear Reunión](https://github.com/user-attachments/assets/3367b6c4-695c-4a22-a3ba-cedbbb62f57e)
 
 ### Tareas
 
@@ -135,16 +135,16 @@ Para gestionar acciones específicas o recordatorios.
 *   Guarda la tarea.
 *   **Actualizar:** Edita la tarea para cambiar su estatus (ej. a "Completada") cuando la finalices.
 
-    ![Lista de Tareas](https://github.com/user-attachments/assets/d25f446e-1400-4791-8139-d51b0fe55571)
+![Lista de Tareas](https://github.com/user-attachments/assets/d25f446e-1400-4791-8139-d51b0fe55571)
 
-    ![Formulario Crear Tarea](https://github.com/user-attachments/assets/e478d036-a7fa-4ada-bedf-c2e1f873f50d)
+![Formulario Crear Tarea](https://github.com/user-attachments/assets/e478d036-a7fa-4ada-bedf-c2e1f873f50d)
 
 ### Calendario
 
 *   Ofrece una vista semanal o mensual de tus Reuniones y Tareas programadas.
 *   Permite crear eventos rápidamente haciendo clic y arrastrando sobre el horario deseado.
 
-    ![Vista del Calendario](https://github.com/user-attachments/assets/a8c60d47-e6b2-4ee2-b153-261188637d1d)
+![Vista del Calendario](https://github.com/user-attachments/assets/a8c60d47-e6b2-4ee2-b153-261188637d1d)
 
 ### PQRS
 
@@ -152,17 +152,15 @@ Para gestionar acciones específicas o recordatorios.
 *   **Crear PQRS:** Haz clic en `+ Crear PQRS`.
 *   Asigna un nombre, estatus, prioridad, asocia a la cuenta (cliente) y describe el caso.
 
-    ![Lista de PQRS](https://github.com/user-attachments/assets/7eaec5bc-3d81-4c96-b8e7-e25491f1dd8a)
+![Lista de PQRS](https://github.com/user-attachments/assets/7eaec5bc-3d81-4c96-b8e7-e25491f1dd8a)
 
-    ![Formulario Crear PQRS](https://github.com/user-attachments/assets/a348bcff-2384-462b-ab64-bdd94d27c551)
+![Formulario Crear PQRS](https://github.com/user-attachments/assets/a348bcff-2384-462b-ab64-bdd94d27c551)
 
 ### Base de Conocimientos
 
 *   Consulta artículos, manuales o guías cargadas en el sistema.
 
-    ```
-    [Placeholder for Knowledge Base Screenshot - Similar to video at 31:55]
-    ```
+![Vista de la Base de Conocimientos](https://github.com/user-attachments/assets/78e9b18d-d674-4c1f-8b67-c5883fdbf05b)
 
 ## Perfil y Configuraciones
 
@@ -170,12 +168,9 @@ Para gestionar acciones específicas o recordatorios.
 *   **Perfil de Usuario:** Haz clic en los tres puntos verticales (⋮) en la esquina superior derecha y luego en tu nombre para ver/editar tu perfil.
 *   **Cambiar Contraseña:** En tu perfil, haz clic en `Editar` -> `...` -> `Cambiar Contraseña`.
 
-    ```
-    [Placeholder for User Menu Screenshot - Similar to video at 33:42]
-    ```
-    ```
-    [Placeholder for Change Password Modal Screenshot - Similar to video at 39:44]
-    ```
+![Notificaciones y Perfil de Usuario](https://github.com/user-attachments/assets/5c9c4065-7897-4315-bf88-f7c103c48d25)
+
+![Cambiar Contraseña en Perfil](https://github.com/user-attachments/assets/114e6acf-5967-45b2-86d3-4fde768107f6)
 
 ## Consejos de Uso
 
