@@ -1,11 +1,29 @@
-```markdown
 # Agro-Path CRM Tutorial
 
+## Tabla de Contenido
 
-
-Bienvenido al repositorio de tutoriales para el CRM Agro-Path. Esta guía está basada en el video tutorial proporcionado y describe las funcionalidades básicas para gestionar clientes, actividades y tareas.
+1.  [Introducción](#introducción)
+2.  [Características Principales](#características-principales)
+3.  [Primeros Pasos](#primeros-pasos)
+    *   [1. Acceso](#1-acceso)
+    *   [2. Pantalla de Inicio (Dashboard)](#2-pantalla-de-inicio-dashboard)
+4.  [Módulos Principales](#módulos-principales)
+    *   [Clientes](#clientes)
+    *   [Almacenes](#almacenes)
+    *   [Contactos](#contactos)
+    *   [Proveedores](#proveedores)
+    *   [Actividades](#actividades)
+    *   [Reuniones](#reuniones)
+    *   [Tareas](#tareas)
+    *   [Calendario](#calendario)
+    *   [PQRS](#pqrs)
+    *   [Base de Conocimientos](#base-de-conocimientos)
+5.  [Perfil y Configuraciones](#perfil-y-configuraciones)
+6.  [Consejos de Uso](#consejos-de-uso)
 
 ## Introducción
+
+Bienvenido al repositorio de tutoriales para el CRM Agro-Path. Esta guía está basada en el video tutorial proporcionado y describe las funcionalidades básicas para gestionar clientes, actividades y tareas.
 
 Agro-Path es una herramienta de Gestión de Relación con el Cliente (CRM) diseñada para facilitar el seguimiento de interacciones con clientes, almacenes, contactos y proveedores, así como la gestión de actividades y tareas diarias del equipo.
 
@@ -28,9 +46,7 @@ Agro-Path es una herramienta de Gestión de Relación con el Cliente (CRM) dise�
 *   Ingresa tu **Nombre de Usuario** y **Contraseña**.
 *   Haz clic en **Log in**.
 
-   
- <img width="1484" alt="image" src="https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6" />
-
+    ![Pantalla de Inicio de Sesión](https://github.com/user-attachments/assets/54c87bea-0501-4bba-a35a-fc01435d56a6)
 
 ### 2. Pantalla de Inicio (Dashboard)
 
@@ -40,10 +56,7 @@ Al ingresar, verás la pantalla principal:
 *   **Columna "Flujo":** Muestra las acciones recientes realizadas en el CRM por ti y otros usuarios.
 *   **Columna "Mis Actividades":** Lista tus actividades y tareas pendientes o asignadas.
 
-    ```
-    <img width="1485" alt="image" src="https://github.com/user-attachments/assets/2c0ad440-4a5d-49bd-9214-418ee7d33462" />
-
-    ```
+    ![Pantalla Principal (Dashboard)](https://github.com/user-attachments/assets/2c0ad440-4a5d-49bd-9214-418ee7d33462)
 
 ## Módulos Principales
 
@@ -61,16 +74,11 @@ Esta sección te permite gestionar las empresas o fincas con las que trabajas.
     *   Indica si tienes autorización para el tratamiento de datos.
     *   Guarda la información.
 
-    ```
-    <img width="1478" alt="image" src="https://github.com/user-attachments/assets/e7f68738-6a17-45f1-9ce2-883bec12e1a7" />
+    ![Lista de Clientes](https://github.com/user-attachments/assets/e7f68738-6a17-45f1-9ce2-883bec12e1a7)
 
-    ```
-    ```
-    <img width="1487" alt="image" src="https://github.com/user-attachments/assets/883ebbfe-19c2-48e6-8a7b-e01123eec79b" />
-    ```
-    ```
-    <img width="1480" alt="image" src="https://github.com/user-attachments/assets/99b6ac35-644d-40f3-b2f1-fa836f087f30" />
-    ```
+    ![Detalle de Cliente](https://github.com/user-attachments/assets/883ebbfe-19c2-48e6-8a7b-e01123eec79b)
+
+    ![Formulario Crear Cliente](https://github.com/user-attachments/assets/99b6ac35-644d-40f3-b2f1-fa836f087f30)
 
 ### Almacenes
 
@@ -85,13 +93,9 @@ Representa a las personas individuales dentro de los Clientes o Almacenes.
 *   **Asociar:** Vincula el contacto al Cliente o Almacén correspondiente usando la flecha de selección.
 *   Guarda el contacto.
 
-    ```
-    <img width="1485" alt="image" src="https://github.com/user-attachments/assets/82252206-2d55-4d9f-a6ef-5544b6f5f77b" />
+    ![Lista de Contactos](https://github.com/user-attachments/assets/82252206-2d55-4d9f-a6ef-5544b6f5f77b)
 
-    ```
-    ```
-    <img width="1485" alt="image" src="https://github.com/user-attachments/assets/f732c042-ad22-4a56-84e5-992920cc2396" />
-    ```
+    ![Formulario Crear Contacto](https://github.com/user-attachments/assets/f732c042-ad22-4a56-84e5-992920cc2396)
 
 ### Proveedores
 
@@ -107,10 +111,7 @@ Registra aquí tus interacciones significativas.
 *   **Detalles:** Describe los temas tratados, recomendaciones y observaciones.
 *   Guarda la actividad.
 
-    ```
-    <img width="1485" alt="image" src="https://github.com/user-attachments/assets/82c33c13-36cb-4093-8034-0a92f06c9bab" />
-
-    ```
+    ![Formulario Crear Actividad](https://github.com/user-attachments/assets/82c33c13-36cb-4093-8034-0a92f06c9bab)
 
 ### Reuniones
 
@@ -121,10 +122,7 @@ Similar a las Actividades, pero permite añadir asistentes.
 *   **Asistentes:** Añade otros usuarios del CRM o contactos externos que participaron.
 *   Guarda la reunión.
 
-    ```
-    <img width="1482" alt="image" src="https://github.com/user-attachments/assets/3367b6c4-695c-4a22-a3ba-cedbbb62f57e" />
-
-    ```
+    ![Formulario Crear Reunión](https://github.com/user-attachments/assets/3367b6c4-695c-4a22-a3ba-cedbbb62f57e)
 
 ### Tareas
 
@@ -137,24 +135,16 @@ Para gestionar acciones específicas o recordatorios.
 *   Guarda la tarea.
 *   **Actualizar:** Edita la tarea para cambiar su estatus (ej. a "Completada") cuando la finalices.
 
-    ```
-    <img width="1484" alt="image" src="https://github.com/user-attachments/assets/d25f446e-1400-4791-8139-d51b0fe55571" />
+    ![Lista de Tareas](https://github.com/user-attachments/assets/d25f446e-1400-4791-8139-d51b0fe55571)
 
-    ```
-    ```
-    <img width="1479" alt="image" src="https://github.com/user-attachments/assets/e478d036-a7fa-4ada-bedf-c2e1f873f50d" />
-
-    ```
+    ![Formulario Crear Tarea](https://github.com/user-attachments/assets/e478d036-a7fa-4ada-bedf-c2e1f873f50d)
 
 ### Calendario
 
 *   Ofrece una vista semanal o mensual de tus Reuniones y Tareas programadas.
 *   Permite crear eventos rápidamente haciendo clic y arrastrando sobre el horario deseado.
 
-    ```
-    <img width="1482" alt="image" src="https://github.com/user-attachments/assets/a8c60d47-e6b2-4ee2-b153-261188637d1d" />
-
-    ```
+    ![Vista del Calendario](https://github.com/user-attachments/assets/a8c60d47-e6b2-4ee2-b153-261188637d1d)
 
 ### PQRS
 
@@ -162,14 +152,9 @@ Para gestionar acciones específicas o recordatorios.
 *   **Crear PQRS:** Haz clic en `+ Crear PQRS`.
 *   Asigna un nombre, estatus, prioridad, asocia a la cuenta (cliente) y describe el caso.
 
-    ```
-    <img width="1476" alt="image" src="https://github.com/user-attachments/assets/7eaec5bc-3d81-4c96-b8e7-e25491f1dd8a" />
+    ![Lista de PQRS](https://github.com/user-attachments/assets/7eaec5bc-3d81-4c96-b8e7-e25491f1dd8a)
 
-    ```
-    ```
-    <img width="1486" alt="image" src="https://github.com/user-attachments/assets/a348bcff-2384-462b-ab64-bdd94d27c551" />
-
-    ```
+    ![Formulario Crear PQRS](https://github.com/user-attachments/assets/a348bcff-2384-462b-ab64-bdd94d27c551)
 
 ### Base de Conocimientos
 
@@ -201,4 +186,3 @@ Para gestionar acciones específicas o recordatorios.
 *   **Nombres en Mayúsculas:** Recuerda crear los nombres de Clientes y Almacenes en mayúsculas.
 
 ¡Esperamos que este tutorial te sea de gran ayuda para utilizar el CRM Agro-Path!
-```
